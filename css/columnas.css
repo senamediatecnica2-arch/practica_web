@@ -1,0 +1,18 @@
+.org-footer{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.columnas{
+    flex: 1;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.redes a{
+    color: black;
+    font-size: 30px;
+    gap: 5px;
+    text-decoration: none;
+}
